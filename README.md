@@ -61,7 +61,7 @@ Você é um desenvolvedor Front-End e precisa desenvolver um formulário de logi
 	git commit -m "feat: login page my-user"
 	```
 	```bash 
-	git push
+	git push --set-upstream origin meu-usuario
 	```	
 ## 🤔 Perguntas Frequentes (FAQ)
 
